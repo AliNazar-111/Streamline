@@ -1,0 +1,11 @@
+﻿fastapi
+uvicorn
+moviepy
+python-multipart
+requests
+edge-tts
+librosa
+google-generativeai
+gputil
+psutil
+yake
